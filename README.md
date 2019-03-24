@@ -1,4 +1,4 @@
-English | [简体中文](./README.zh-CN.md)
+English | [简体中文](./README-zh-CN.md)
 
 # Large-scale platform for making friends with comrades
 # No resistance to hairy bears
